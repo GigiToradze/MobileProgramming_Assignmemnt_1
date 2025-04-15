@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Assignment_1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cash_wallet">Cash/Wallet</string>
+    <string name="_5_53">$ 5.53</string>
+    <string name="order">Order</string>
+    <string name="walleticon">WalletIcon</string>
+    <string name="arrowdown">ArrowDown</string>
+    <string name="title">Order</string>
+    <string name="pick_up">Pick Up</string>
+    <string name="deliver">Deliver</string>
+    <string name="title_order">Order</string>
+    <string name="edit_address">Edit Address</string>
+    <string name="add_note">Add Note</string>
+    <string name="_1_0">$1.0</string>
+    <string name="delivery_fee">Delivery Fee</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="jl_kpg_sutoyo">Jl. Kpg Sutoyo</string>
+    <string name="kpg_sutoyo_no_620_bilzen_tanjungbalai">Kpg. Sutoyo No. 620, Bilzen, Tanjungbalai.</string>
+    <string name="_1_discount_is_applied">1 Discount is Applied</string>
+    <string name="payment_summary">Payment Summary</string>
+    <string name="price">Price</string>
+    <string name="_4_53">$4.53</string>
+    <string name="todo">TODO</string>
+    <string name="decrease">Decrease</string>
+    <string name="increase">Increase</string>
+    <string name="deep_foam">Deep Foam</string>
+    <string name="placeholder">placeholder</string>
+    <string name="ascsac">TODO</string>
+    <string name="ascasd">TODO</string>
+</resources>
